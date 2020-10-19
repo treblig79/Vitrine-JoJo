@@ -1,0 +1,14 @@
+body,
+html{
+
+	width: 100%;
+	height: 100%;
+	font-family: 'Montserrat', sans-serif;
+
+	background-image: url(indexcover.jpg) ;
+background-size: 25rem;
+
+}
+.bg-light {
+    background-color: #b8f1d0!important;
+}
